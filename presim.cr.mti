@@ -1,0 +1,30 @@
+D:/src/CPU.v {1 {vlog -work work5 {D:\src\CPU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} D:/src/top_tb.v {1 {vlog -work work5 D:/src/top_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} D:/src/top.v {1 {vlog -work work5 D:/src/top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SRAM
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/src/SRAM.v {1 {vlog -work work5 D:/src/SRAM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}}
