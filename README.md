@@ -12,5 +12,5 @@
 ![p5](./img/p5.png)
 ### J-type
 ![p6](./img/p6.png)
-### Block Diagram
+## Block Diagram
 ![p7](./img/p7.png)
